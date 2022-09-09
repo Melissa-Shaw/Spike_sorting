@@ -1,3 +1,4 @@
+
 function [spikestruct] = makespikestruct_MS(shared_drive,data_drive,db, exp, sp, method, need_stitching)
 % saves spikestruct variable for quick use with subsequent analyse
 % plots and saves specified LFP traces and visualises saturations into experiment directory
